@@ -10,6 +10,8 @@ The movies posters were fetched from https://www.themoviedb.org/
 
 The frontend contains a mixture of animations from https://lottiefiles.com/tools/json-editor?gclid=CjwKCAjw7cGUBhA9EiwArBAvorhnUz_8Xltfagq9azJ3dPit7iTLgYWemaLEdxU4MpovIFg0KnnCwRoC1yIQAvD_BwE and emojis from https://www.webfx.com/tools/emoji-cheat-sheet/#
 
+For more information on streamlit visit https://docs.streamlit.io/library/api-reference
+
 # How to get the API key?
 Create an account on https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your API sidebar once your request is approved.
 
@@ -20,4 +22,4 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 4. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
 5. Replace YOUR_API_KEY in (line no. 18) of web_app.py file and hit save.
 6. Open your terminal/command prompt from your project directory and run the file web_app.py by executing the command streamlit run web_app.py.
-7. Hurray! That's it.
+7. And Hurray! That's it. Your Recommendation Engine is ready!
