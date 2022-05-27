@@ -15,6 +15,8 @@ The frontend contains a mixture of animations from https://lottiefiles.com/tools
 
 For more information on streamlit visit https://docs.streamlit.io/library/api-reference
 
+Final deployment done with https://dashboard.heroku.com/login
+
 # Similarity Score -
 How does it decide which item is most similar to the item user likes? Here come the similarity scores.
 
