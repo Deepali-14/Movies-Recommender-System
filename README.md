@@ -61,3 +61,9 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 5. Replace YOUR_API_KEY in (line no. 18) of web_app.py file and hit save.
 6. Open your terminal/command prompt from your project directory and run the file web_app.py by executing the command streamlit run web_app.py.
 7. And Hurray! That's it. Your Recommendation Engine is ready!
+
+# Features
+1. It saves time of user by just taking movie name as input and recommends five most similar movies to the user.
+2. It can in additional take feedback from the user about the modifications that can be done.
+3. It also has an introduction section for the user to learn.
+4. It can further be extended to rate the movies.
