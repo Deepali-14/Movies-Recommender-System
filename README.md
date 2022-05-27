@@ -24,7 +24,7 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 6. Open your terminal/command prompt from your project directory and run the file web_app.py by executing the command streamlit run web_app.py.
 7. And Hurray! That's it. Your Recommendation Engine is ready!
 
-# Similarity Score :
+# Similarity Score -
 How does it decide which item is most similar to the item user likes? Here come the similarity scores.
 
 It is a numerical value ranges which between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
