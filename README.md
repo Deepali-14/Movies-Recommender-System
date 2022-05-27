@@ -25,6 +25,11 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 ![image](https://user-images.githubusercontent.com/90978030/170785665-3662d48f-4573-4029-b73f-38fcc9dc842b.png)
 
+
+# IDE's used -
+1. Jupyter Notebook
+2. PyCharm Community Edition 2022.1.1
+
 # Dependencies -
 pandas
 
@@ -46,10 +51,6 @@ pickle
 
 pip
 
-# IDE's used -
-1. Jupyter Notebook
-2. PyCharm Community Edition 2022.1.1
-
 # How to get the API key?
 Create an account on https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your API sidebar once your request is approved.
 
@@ -67,6 +68,3 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 2. It can in additional take feedback from the user about the modifications that can be done.
 3. It also has an introduction section for the user to learn.
 4. It can further be extended to rate the movies.
-
-
-
