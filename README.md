@@ -27,6 +27,7 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 # Dependencies
 pandas
+
 numpy
 
 scikit-learn
