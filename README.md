@@ -15,8 +15,6 @@ The frontend contains a mixture of animations from https://lottiefiles.com/tools
 
 For more information on streamlit visit https://docs.streamlit.io/library/api-reference
 
-Final deployment done with https://dashboard.heroku.com/login
-
 # Similarity Score -
 How does it decide which item is most similar to the item user likes? Here come the similarity scores.
 
@@ -47,6 +45,10 @@ streamlit_lottie
 pickle
 
 pip
+
+# IDE's used -
+1. Jupyter Notebook
+2. PyCharm Community Edition 2022.1.1
 
 # How to get the API key?
 Create an account on https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your API sidebar once your request is approved.
