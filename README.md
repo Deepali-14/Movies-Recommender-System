@@ -67,3 +67,7 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 2. It can in additional take feedback from the user about the modifications that can be done.
 3. It also has an introduction section for the user to learn.
 4. It can further be extended to rate the movies.
+
+
+![image](https://user-images.githubusercontent.com/90978030/170790081-5405ac0d-1eae-4ac1-b7f4-67a24a0cefa2.png)
+
