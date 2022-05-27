@@ -25,6 +25,15 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 ![image](https://user-images.githubusercontent.com/90978030/170785665-3662d48f-4573-4029-b73f-38fcc9dc842b.png)
 
+# Dependencies
+pandas
+numpy
+scikit-learn
+nltk
+ast
+streamlit
+requests
+streamlit_lottie
 
 # How to get the API key?
 Create an account on https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your API sidebar once your request is approved.
