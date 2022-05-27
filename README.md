@@ -2,6 +2,9 @@
 # Content-Based Movie Recommendation System -
 This type of recommendation engine works on the concept that if a user liked a particular movie, he/she might like a movie similar to it based on attributes such as genre, director, actors etc.
 
+![image](https://user-images.githubusercontent.com/90978030/170785808-347c83e3-0c42-46e1-b836-b0f29952807e.png)
+
+
 Check out the project here : https://deepali-movies-recommender.herokuapp.com/ 
 
 For this initially the datasets were selected from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
