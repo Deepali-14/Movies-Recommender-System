@@ -15,9 +15,9 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 
 # How to run the project?
 1. Clone or download this repository to your local machine.
-2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
-3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
-4. Replace YOUR_API_KEY in both the places (line no. 15 and 29) of static/recommend.js file and hit save.
-5. Open your terminal/command prompt from your project directory and run the file main.py by executing the command python main.py.
-6. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+2. Run the 
+3. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
+4. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
+5. Replace YOUR_API_KEY in (line no. 18) of web_app.py file and hit save.
+6. Open your terminal/command prompt from your project directory and run the file web_app.py by executing the command python main.py.
 7. Hurray! That's it.
