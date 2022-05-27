@@ -69,5 +69,4 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 4. It can further be extended to rate the movies.
 
 
-![image](https://user-images.githubusercontent.com/90978030/170790081-5405ac0d-1eae-4ac1-b7f4-67a24a0cefa2.png)
 
