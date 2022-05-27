@@ -70,9 +70,11 @@ Deploying using Heroku Git from Heroku CLI https://devcenter.heroku.com/articles
 
 Step-1 Download and install the Heroku CLI.
 
+
 Step-2 If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
 
 $ heroku login
+
 
 Step-3 Clone the repository
 
@@ -81,6 +83,7 @@ Use Git to clone APP NAME source code to your local machine.
 $ heroku git:clone -a APP NAME
 
 $ cd APP NAME
+
 
 Step-4 Deploy your changes
 
