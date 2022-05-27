@@ -15,9 +15,9 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 
 # How to run the project?
 1. Clone or download this repository to your local machine.
-2. Run the 
-3. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
+2. Run the movie-recommender-system.ipynb python file on your Jupyter Notebook by installing all the required libraries.
+3. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt in PyCharm. 
 4. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
 5. Replace YOUR_API_KEY in (line no. 18) of web_app.py file and hit save.
-6. Open your terminal/command prompt from your project directory and run the file web_app.py by executing the command python main.py.
+6. Open your terminal/command prompt from your project directory and run the file web_app.py by executing the command streamlit run web_app.py.
 7. Hurray! That's it.
