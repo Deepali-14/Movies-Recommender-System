@@ -15,6 +15,8 @@ The frontend contains a mixture of animations from https://lottiefiles.com/tools
 
 For more information on streamlit visit https://docs.streamlit.io/library/api-reference
 
+Finally the website deployed to https://www.heroku.com/
+
 # Similarity Score -
 How does it decide which item is most similar to the item user likes? Here come the similarity scores.
 
@@ -62,6 +64,24 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 5. Replace YOUR_API_KEY in (line no. 18) of web_app.py file and hit save.
 6. Open your terminal/command prompt from your project directory and run the file web_app.py by executing the command streamlit run web_app.py.
 7. And Hurray! That's it. Your Recommendation Engine is ready!
+
+# Deployment method -
+Deploying using Heroku Git from Heroku CLI https://devcenter.heroku.com/articles/heroku-command-line
+Step-1 Download and install the Heroku CLI.
+
+Step-2 If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+$ heroku login
+
+Step-3 Clone the repository
+Use Git to clone APP NAME source code to your local machine.
+$ heroku git:clone -a APP NAME
+$ cd APP NAME
+
+Step-4 Deploy your changes
+Make some changes to the code you just cloned and deploy them to Heroku using Git.
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
 
 # Features -
 1. It saves time of user by just taking movie name as input and recommends five most similar movies to the user.
