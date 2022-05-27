@@ -31,3 +31,4 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 5. Replace YOUR_API_KEY in (line no. 18) of web_app.py file and hit save.
 6. Open your terminal/command prompt from your project directory and run the file web_app.py by executing the command streamlit run web_app.py.
 7. And Hurray! That's it. Your Recommendation Engine is ready!
+![image](https://user-images.githubusercontent.com/90978030/170785217-247384fb-84e5-4eb3-9e77-d00380fe8cc9.png)
