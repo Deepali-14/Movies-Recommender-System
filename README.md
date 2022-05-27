@@ -67,20 +67,29 @@ Create an account on https://www.themoviedb.org/, click on the API link from the
 
 # Deployment method -
 Deploying using Heroku Git from Heroku CLI https://devcenter.heroku.com/articles/heroku-command-line
+
 Step-1 Download and install the Heroku CLI.
 
 Step-2 If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+
 $ heroku login
 
 Step-3 Clone the repository
+
 Use Git to clone APP NAME source code to your local machine.
+
 $ heroku git:clone -a APP NAME
+
 $ cd APP NAME
 
 Step-4 Deploy your changes
+
 Make some changes to the code you just cloned and deploy them to Heroku using Git.
+
 $ git add .
+
 $ git commit -am "make it better"
+
 $ git push heroku master
 
 # Features -
