@@ -7,6 +7,10 @@ This type of recommendation engine works on the concept that if a user liked a p
 
 Check out the project here : https://deepali-movies-recommender.herokuapp.com/ 
 
+Check out the project demo here : https://drive.google.com/file/d/17IthFW4oZfsuPSB8KX-xShwDkBNYy3U1/view
+
+Checkout the project presentation here : https://docs.google.com/presentation/d/17JJha8JsaQvxBZ_UW_l1qz0dyvMGUVwm/edit?usp=sharing&ouid=115205668794026881524&rtpof=true&sd=true
+
 For this initially the datasets were selected from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 The movies posters were fetched from https://www.themoviedb.org/
