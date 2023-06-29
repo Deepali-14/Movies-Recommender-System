@@ -5,7 +5,7 @@ This type of recommendation engine works on the concept that if a user liked a p
 ![image](https://user-images.githubusercontent.com/90978030/170785934-3a3aabc1-125f-419c-adc3-358e861b7eec.png)
 
 
-Check out the project here : https://deepali-movies-recommender.herokuapp.com/ 
+Check out the final project here : https://deepali-movies-recommender.herokuapp.com/ 
 
 Check out the project demo here : https://drive.google.com/file/d/17IthFW4oZfsuPSB8KX-xShwDkBNYy3U1/view
 
